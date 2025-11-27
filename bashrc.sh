@@ -139,6 +139,8 @@ curl ip.gs
 
 alias ipgs='curl ip.gs'
 # rinetd  端口转发服务
+fll
 
 alias rm='trash-put'
 123
+000
